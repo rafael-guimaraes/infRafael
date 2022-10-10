@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Rafael Augusto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá meu nome é Rafael Augusto, tenho 16 anos e atualmente curso o ensino médio e técnico de informática no colégio Univap Unidade Centro.
+Atualmente estou aprendendo desenvolvimento Web, Python e C.
 
-<!---
-infRafael/infRafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu LinkedIn:
+https://www.linkedin.com/in/rafael-augusto-5b31b1231/
+Meu E-mail:
+rafaelaugustogui@gmail.com
